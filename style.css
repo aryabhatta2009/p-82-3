@@ -1,0 +1,27 @@
+body{
+    background-image:url("https://www.wallpapertip.com/wmimgs/0-3777_light-background-wallpaper.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    cursor:pointer;
+  }
+  
+  
+  #myCanvas{
+      border-width: 10px;
+      background-color: white;
+      border-style:ridge ;
+  
+  }
+  #clearArea{
+     background-color: #4CAF50;
+       border: none;
+      color: white;
+      padding: 10px 42px;
+      font-size: 16px;
+      cursor: pointer;
+  }
+  
+  input{
+    background-color:white;
+    margin-right: 20px;
+  }
